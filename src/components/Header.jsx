@@ -7,7 +7,7 @@ const Header = () => {
       <h1>The React Quiz</h1>
       <p>
         Developed By{" "}
-        <a href="https://github.com/abhi07070" target="_blank">
+        <a href="https://github.com/abhi07070" target="_blank" rel="noreferrer">
           Davinder Kumar
         </a>{" "}
         💻
